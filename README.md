@@ -61,7 +61,7 @@ python server.py
 python client.py
 ```
 
-Le client envoie les images toutes les 10 secondes via la chaîne de
+Le client envoie les images toutes les 2 secondes via la chaîne de
 nœuds Fog.\
 Le serveur détecte le nombre de doigts levés et renvoie un message
 correspondant à l'identité associée.
